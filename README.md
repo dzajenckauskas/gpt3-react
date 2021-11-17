@@ -1,3 +1,8 @@
+HTML + CSS + REACT.JS 
+
+Live view: <br>
+https://gpt-3-react-app.web.app/
+
 ######
 
 BASICS:
