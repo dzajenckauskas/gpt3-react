@@ -1,3 +1,51 @@
+######
+
+BASICS:
+
+# creates project in exscisting folder:
+
+npx create-react-app ./
+
+# Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using:
+
+npm instal react-icons
+
+## DESIGN:
+
+https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3?node-id=0%3A15
+
+## TOOLS USED:
+
+https://angrytools.com/gradient/
+
+https://animista.net/play/basic/scale-up
+
+## YOUTUBE TUTORIAL:
+
+https://www.youtube.com/watch?v=LMagNcngvcU
+
+######
+
+######
+
+######
+
+######
+
+######
+
+######
+
+######
+
+######
+
+######
+
+######
+
+######
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
