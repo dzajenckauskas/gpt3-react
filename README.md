@@ -39,6 +39,6 @@ https://animista.net/play/basic/scale-up
 
 ######
 
-## YOUTUBE TUTORIAL:
+YOUTUBE TUTORIAL:
 https://www.youtube.com/watch?v=LMagNcngvcU
 
